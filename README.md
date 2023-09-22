@@ -8,6 +8,10 @@ MCT 331 Design of Mechatronics 1: Automated Production Line
 - MATLAB Simulation: [Watch on Youtube](https://youtu.be/BmF8Xkz78Os?si=Ad1N0CT3G5L1Kgxn)
 - Prototype Video: [Watch on Youtube]()
 
+## Documents Link 
+You can access all of the data and materials for the project at this [link](https://drive.google.com/drive/folders/1eBcMXoPit-3Umy-l6i882jb1t8cAvh8S?usp=drive_link). 
+
+
 ## Directory Hierarchy
 ```
 |—— GUI
